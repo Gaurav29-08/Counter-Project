@@ -15,3 +15,4 @@ Tailwind CSS - A utility-first CSS framework for rapid UI development.
 
 
 # Counter-Project
+<img width="1430" alt="Screenshot 2024-07-04 at 1 53 05 PM" src="https://github.com/Gaurav29-08/Counter-Project/assets/83288497/40087be0-2556-41f5-85ff-933c82d9983a">
